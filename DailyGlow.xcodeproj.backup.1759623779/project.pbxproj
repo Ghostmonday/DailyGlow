@@ -1,0 +1,482 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C2BE65104E5B4C8BA3F31381 /* in Sources */ = {isa = PBXBuildFile; fileRef = 95E8C532BABA42EDA2841535; };
+		29A3250DE29147249CF5AE48 /* in Sources */ = {isa = PBXBuildFile; fileRef = E19E3BF20A414816B5A84991; };
+		F3708D1394364D88974C8B4C /* in Sources */ = {isa = PBXBuildFile; fileRef = 706B20130D0B4825AB474CB5; };
+		C3440FD68D214D3E84FDCED3 /* in Sources */ = {isa = PBXBuildFile; fileRef = 7D1DE53870564BC0B5E94DA8; };
+		DED4AFC8CF6E466E8881716F /* in Sources */ = {isa = PBXBuildFile; fileRef = 894233C55A154EF38E611438; };
+		ABB1E497A9A14299ADA04468 /* in Sources */ = {isa = PBXBuildFile; fileRef = 30249DD4BBAD4CD494B39AF6; };
+		0020584322F2498DBACF4C67 /* in Sources */ = {isa = PBXBuildFile; fileRef = 5DE22F9CE5794B24B8DF919C; };
+		BD22B73ECB4C43CFBE14A582 /* in Sources */ = {isa = PBXBuildFile; fileRef = 4A952CF4DD61455C88E269CD; };
+		A1648511FBA54A1FBA01DC68 /* in Sources */ = {isa = PBXBuildFile; fileRef = 5382353500BD432B9A85A9D3; };
+		57E55F6AA6AE4033BC24AF61 /* in Sources */ = {isa = PBXBuildFile; fileRef = F833AC85306C4B3F9A1BA86B; };
+		11F4332F0C4A47BBB9C6798F /* in Sources */ = {isa = PBXBuildFile; fileRef = 5FC0888B02E440E1ACDB5022; };
+		EB98C79E7FF44A59BE8F5B63 /* in Sources */ = {isa = PBXBuildFile; fileRef = C9AA6D823F8D4018A77750A0; };
+		D32DF7190CF4464098FED6E9 /* in Sources */ = {isa = PBXBuildFile; fileRef = 7AB43CDE0D6A4BE1B44FD7F6; };
+		B9C1FE4BE9F74419B3F3A33C /* in Sources */ = {isa = PBXBuildFile; fileRef = ECBAE5E151C3418DB8FAD00E; };
+		FE9028C8942F4256B3FB5D6B /* in Sources */ = {isa = PBXBuildFile; fileRef = EB9FD7F17A7D42D1A5F849B7; };
+		24E906923DC54EFA97229688 /* in Sources */ = {isa = PBXBuildFile; fileRef = 47598F422DE34817B05970AC; };
+		B7E12350BB6F4599B227E77F /* in Sources */ = {isa = PBXBuildFile; fileRef = 9F406C43131B4224835EAF59; };
+		BF94A08D0C8A4F51AB6C7526 /* in Sources */ = {isa = PBXBuildFile; fileRef = 11F91FB630494F23887C530D; };
+		CDC58B52CD1540289041C6AB /* in Sources */ = {isa = PBXBuildFile; fileRef = 4D942464C012452B8DD5C945; };
+		BDDA7BEABCBE4BB4B6B43B2A /* in Sources */ = {isa = PBXBuildFile; fileRef = 0CA915CC3230460493E627B9; };
+		F239BA8AAB60402BA6E136BB /* in Sources */ = {isa = PBXBuildFile; fileRef = 65BA12F0EF9843F28D028A1F; };
+		94785795F2C145AEA7AA7140 /* in Sources */ = {isa = PBXBuildFile; fileRef = 8C17E73AE8D846E6BB3595A6; };
+		4EDF68BB54684C68878CE1D6 /* in Sources */ = {isa = PBXBuildFile; fileRef = 6A5E531AA88D4E2F97CCC7BC; };
+		4746497992C64B89A16277F9 /* in Sources */ = {isa = PBXBuildFile; fileRef = 1AA66B2956C4416CB9D09096; };
+		ED633604D33D415F974A5469 /* in Sources */ = {isa = PBXBuildFile; fileRef = 61DC50FF9D224E32B3FF55C2; };
+		7C1879078CE44B8FB2C77432 /* in Sources */ = {isa = PBXBuildFile; fileRef = 1BF1672C90DC422CA336EBCA; };
+		D068F57EB200487EB41B9D8D /* in Sources */ = {isa = PBXBuildFile; fileRef = A374CCA6747342108B861E40; };
+		9673EA945D94497DB309E304 /* in Sources */ = {isa = PBXBuildFile; fileRef = 2BB56D9D3F3F4161A8BA9B53; };
+		E21AF044F8DB4C23B845E566 /* in Sources */ = {isa = PBXBuildFile; fileRef = B14D848F74A546D0B1972DBD; };
+		BBA64302BDCA43059F78ECF9 /* in Sources */ = {isa = PBXBuildFile; fileRef = 7B3B92A1611A48208BDAF9C9; };
+		24A6B78623F94AEE9A73C9A6 /* in Sources */ = {isa = PBXBuildFile; fileRef = BA54A53A9EE94DEA9D2E8094; };
+		3E7F9932DE444225B5C2EA78 /* in Sources */ = {isa = PBXBuildFile; fileRef = 36365AADCAC94747B60E058E; };
+		52BD697356664BDA9B21AE56 /* in Sources */ = {isa = PBXBuildFile; fileRef = 9EB489FBA7E640B58F0913E8; };
+		5F33D7B2609F4F32A23FAE5B /* in Sources */ = {isa = PBXBuildFile; fileRef = D0C89394071140DE99B6871A; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C3226700AAB4431AA1F84B2F /* DailyGlow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DailyGlow.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		95E8C532BABA42EDA2841535 /* Achievement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Achievement.swift"; sourceTree = "<group>"; };
+		E19E3BF20A414816B5A84991 /* Affirmation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Affirmation.swift"; sourceTree = "<group>"; };
+		706B20130D0B4825AB474CB5 /* Category.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Category.swift"; sourceTree = "<group>"; };
+		7D1DE53870564BC0B5E94DA8 /* UserPreferences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UserPreferences.swift"; sourceTree = "<group>"; };
+		894233C55A154EF38E611438 /* JournalAnalyticsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "JournalAnalyticsView.swift"; sourceTree = "<group>"; };
+		30249DD4BBAD4CD494B39AF6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContentView.swift"; sourceTree = "<group>"; };
+		5DE22F9CE5794B24B8DF919C /* FavoritesTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "FavoritesTab.swift"; sourceTree = "<group>"; };
+		4A952CF4DD61455C88E269CD /* JournalTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "JournalTab.swift"; sourceTree = "<group>"; };
+		5382353500BD432B9A85A9D3 /* SettingsTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "SettingsTab.swift"; sourceTree = "<group>"; };
+		F833AC85306C4B3F9A1BA86B /* TodayTab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "TodayTab.swift"; sourceTree = "<group>"; };
+		5FC0888B02E440E1ACDB5022 /* BenefitsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BenefitsView.swift"; sourceTree = "<group>"; };
+		C9AA6D823F8D4018A77750A0 /* CategoryPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CategoryPickerView.swift"; sourceTree = "<group>"; };
+		7AB43CDE0D6A4BE1B44FD7F6 /* CompleteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CompleteView.swift"; sourceTree = "<group>"; };
+		ECBAE5E151C3418DB8FAD00E /* MoodSelectorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "MoodSelectorView.swift"; sourceTree = "<group>"; };
+		EB9FD7F17A7D42D1A5F849B7 /* NameInputView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NameInputView.swift"; sourceTree = "<group>"; };
+		47598F422DE34817B05970AC /* NotificationSetupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "NotificationSetupView.swift"; sourceTree = "<group>"; };
+		9F406C43131B4224835EAF59 /* OnboardingContainer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "OnboardingContainer.swift"; sourceTree = "<group>"; };
+		11F91FB630494F23887C530D /* PremiumPitchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PremiumPitchView.swift"; sourceTree = "<group>"; };
+		4D942464C012452B8DD5C945 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "WelcomeView.swift"; sourceTree = "<group>"; };
+		0CA915CC3230460493E627B9 /* PaywallView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "PaywallView.swift"; sourceTree = "<group>"; };
+		65BA12F0EF9843F28D028A1F /* AchievementsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AchievementsView.swift"; sourceTree = "<group>"; };
+		8C17E73AE8D846E6BB3595A6 /* WidgetViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "WidgetViews.swift"; sourceTree = "<group>"; };
+		6A5E531AA88D4E2F97CCC7BC /* AffirmationCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AffirmationCard.swift"; sourceTree = "<group>"; };
+		1AA66B2956C4416CB9D09096 /* AnimatedBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AnimatedBackground.swift"; sourceTree = "<group>"; };
+		61DC50FF9D224E32B3FF55C2 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CustomButton.swift"; sourceTree = "<group>"; };
+		1BF1672C90DC422CA336EBCA /* GlassmorphicCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GlassmorphicCard.swift"; sourceTree = "<group>"; };
+		A374CCA6747342108B861E40 /* ColorSystem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ColorSystem.swift"; sourceTree = "<group>"; };
+		2BB56D9D3F3F4161A8BA9B53 /* CustomShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CustomShapes.swift"; sourceTree = "<group>"; };
+		B14D848F74A546D0B1972DBD /* GradientTheme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GradientTheme.swift"; sourceTree = "<group>"; };
+		7B3B92A1611A48208BDAF9C9 /* Typography.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Typography.swift"; sourceTree = "<group>"; };
+		BA54A53A9EE94DEA9D2E8094 /* AffirmationService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "AffirmationService.swift"; sourceTree = "<group>"; };
+		36365AADCAC94747B60E058E /* HapticManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "HapticManager.swift"; sourceTree = "<group>"; };
+		9EB489FBA7E640B58F0913E8 /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "StorageManager.swift"; sourceTree = "<group>"; };
+		D0C89394071140DE99B6871A /* DailyGlowApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "DailyGlowApp.swift"; sourceTree = "<group>"; };
+		BBC058D945EF4D90AFBFB88A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Info.plist"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		6CC35B8573C24BECA98E6EA9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2B92E85B8D3F4906B4723479 = {
+			isa = PBXGroup;
+			children = (
+				D0C89394071140DE99B6871A,
+				35242D66A2CD4845A37DD31B,
+				192D0B606A304052AE82CA00,
+				E68DACB6910C488B81005784,
+				FC49DF6AB32B4F338C1888E0,
+				67FEAEF56D8047F9851F262C,
+				EC86D5650D564DEE91FBD865,
+				BBC058D945EF4D90AFBFB88A,
+			);
+			sourceTree = "<group>";
+		};
+		EC86D5650D564DEE91FBD865 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C3226700AAB4431AA1F84B2F /* DailyGlow.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		35242D66A2CD4845A37DD31B /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				95E8C532BABA42EDA2841535,
+				E19E3BF20A414816B5A84991,
+				706B20130D0B4825AB474CB5,
+				7D1DE53870564BC0B5E94DA8,
+			);
+			path = "Models";
+			sourceTree = "<group>";
+		};
+		0BD9CA32D92A4B42A76AB150 /* Journal */ = {
+			isa = PBXGroup;
+			children = (
+				894233C55A154EF38E611438,
+			);
+			path = "Views/Journal";
+			sourceTree = "<group>";
+		};
+		F723530228984A7E80708107 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				30249DD4BBAD4CD494B39AF6,
+				5DE22F9CE5794B24B8DF919C,
+				4A952CF4DD61455C88E269CD,
+				5382353500BD432B9A85A9D3,
+				F833AC85306C4B3F9A1BA86B,
+			);
+			path = "Views/Main";
+			sourceTree = "<group>";
+		};
+		C6D454A6883F41D1A938D1EC /* Onboarding */ = {
+			isa = PBXGroup;
+			children = (
+				5FC0888B02E440E1ACDB5022,
+				C9AA6D823F8D4018A77750A0,
+				7AB43CDE0D6A4BE1B44FD7F6,
+				ECBAE5E151C3418DB8FAD00E,
+				EB9FD7F17A7D42D1A5F849B7,
+				47598F422DE34817B05970AC,
+				9F406C43131B4224835EAF59,
+				11F91FB630494F23887C530D,
+				4D942464C012452B8DD5C945,
+			);
+			path = "Views/Onboarding";
+			sourceTree = "<group>";
+		};
+		E2AC65C01FD14527A09EDB00 /* Paywall */ = {
+			isa = PBXGroup;
+			children = (
+				0CA915CC3230460493E627B9,
+			);
+			path = "Views/Paywall";
+			sourceTree = "<group>";
+		};
+		7095EB4776C04C2A8232647C /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				65BA12F0EF9843F28D028A1F,
+			);
+			path = "Views/Settings";
+			sourceTree = "<group>";
+		};
+		B84A676533D5444CA6D35E69 /* Widgets */ = {
+			isa = PBXGroup;
+			children = (
+				8C17E73AE8D846E6BB3595A6,
+			);
+			path = "Views/Widgets";
+			sourceTree = "<group>";
+		};
+		192D0B606A304052AE82CA00 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				0BD9CA32D92A4B42A76AB150,
+				F723530228984A7E80708107,
+				C6D454A6883F41D1A938D1EC,
+				E2AC65C01FD14527A09EDB00,
+				7095EB4776C04C2A8232647C,
+				B84A676533D5444CA6D35E69,
+			);
+			path = "Views";
+			sourceTree = "<group>";
+		};
+		E68DACB6910C488B81005784 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				6A5E531AA88D4E2F97CCC7BC,
+				1AA66B2956C4416CB9D09096,
+				61DC50FF9D224E32B3FF55C2,
+				1BF1672C90DC422CA336EBCA,
+			);
+			path = "Components";
+			sourceTree = "<group>";
+		};
+		FC49DF6AB32B4F338C1888E0 /* Design */ = {
+			isa = PBXGroup;
+			children = (
+				A374CCA6747342108B861E40,
+				2BB56D9D3F3F4161A8BA9B53,
+				B14D848F74A546D0B1972DBD,
+				7B3B92A1611A48208BDAF9C9,
+			);
+			path = "Design";
+			sourceTree = "<group>";
+		};
+		67FEAEF56D8047F9851F262C /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				BA54A53A9EE94DEA9D2E8094,
+				36365AADCAC94747B60E058E,
+				9EB489FBA7E640B58F0913E8,
+			);
+			path = "Services";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2E6F97D2D9A64806AC744F97 /* DailyGlow */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 42BC3570C82E4241A09A9BA4;
+			buildPhases = (
+				787FC48E8692419EBE74E601 /* Sources */,
+				6CC35B8573C24BECA98E6EA9 /* Frameworks */,
+				33C835408E9C420DB1B0FDE7 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = DailyGlow;
+			productName = DailyGlow;
+			productReference = C3226700AAB4431AA1F84B2F /* DailyGlow.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		645A4F6095E44C51896AF444 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1520;
+				LastUpgradeCheck = 1520;
+				TargetAttributes = {
+					2E6F97D2D9A64806AC744F97 = {
+						CreatedOnToolsVersion = 15.2;
+					};
+				};
+			};
+			buildConfigurationList = 8CB6F5692018456CBE9C12DD;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2B92E85B8D3F4906B4723479;
+			productRefGroup = EC86D5650D564DEE91FBD865 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2E6F97D2D9A64806AC744F97 /* DailyGlow */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		33C835408E9C420DB1B0FDE7 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		787FC48E8692419EBE74E601 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C2BE65104E5B4C8BA3F31381,
+				29A3250DE29147249CF5AE48,
+				F3708D1394364D88974C8B4C,
+				C3440FD68D214D3E84FDCED3,
+				DED4AFC8CF6E466E8881716F,
+				ABB1E497A9A14299ADA04468,
+				0020584322F2498DBACF4C67,
+				BD22B73ECB4C43CFBE14A582,
+				A1648511FBA54A1FBA01DC68,
+				57E55F6AA6AE4033BC24AF61,
+				11F4332F0C4A47BBB9C6798F,
+				EB98C79E7FF44A59BE8F5B63,
+				D32DF7190CF4464098FED6E9,
+				B9C1FE4BE9F74419B3F3A33C,
+				FE9028C8942F4256B3FB5D6B,
+				24E906923DC54EFA97229688,
+				B7E12350BB6F4599B227E77F,
+				BF94A08D0C8A4F51AB6C7526,
+				CDC58B52CD1540289041C6AB,
+				BDDA7BEABCBE4BB4B6B43B2A,
+				F239BA8AAB60402BA6E136BB,
+				94785795F2C145AEA7AA7140,
+				4EDF68BB54684C68878CE1D6,
+				4746497992C64B89A16277F9,
+				ED633604D33D415F974A5469,
+				7C1879078CE44B8FB2C77432,
+				D068F57EB200487EB41B9D8D,
+				9673EA945D94497DB309E304,
+				E21AF044F8DB4C23B845E566,
+				BBA64302BDCA43059F78ECF9,
+				24A6B78623F94AEE9A73C9A6,
+				3E7F9932DE444225B5C2EA78,
+				52BD697356664BDA9B21AE56,
+				5F33D7B2609F4F32A23FAE5B,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		0244CD9C909F4D3084DB38AD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		581FE3EF84144841A40E45A3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_STYLE = Automatic;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_VERSION = 5.0;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1833C4498F984344955647F8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Daily Glow";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.dailyglow.app";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		6A28C9B4179F474389E7380B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Daily Glow";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.dailyglow.app";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8CB6F5692018456CBE9C12DD /* Build configuration list for PBXProject "DailyGlow" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0244CD9C909F4D3084DB38AD /* Debug */,
+				581FE3EF84144841A40E45A3 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		42BC3570C82E4241A09A9BA4 /* Build configuration list for PBXNativeTarget "DailyGlow" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1833C4498F984344955647F8 /* Debug */,
+				6A28C9B4179F474389E7380B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 645A4F6095E44C51896AF444 /* Project object */;
+}
